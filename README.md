@@ -76,9 +76,7 @@ Open a web browser and go to `http://localhost:8501` to view the app.
 - `car_price_prediction.csv`: Dataset used for training the models.
 - `requirements.txt`: List of Python packages required for the project.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
@@ -97,15 +95,3 @@ pandas==2.0.3
 numpy==1.24.4
 ```
 
-### Additional Notes
-
-1. **Dataset File:**
-   - Ensure you include the `car_price_prediction.csv` dataset file in your repository or provide instructions for downloading it if it's not included.
-
-2. **Licensing:**
-   - If you have a specific license, include it in a `LICENSE` file. Adjust the README accordingly.
-
-3. **Dependencies:**
-   - The versions in `requirements.txt` are for the packages as of the latest updates. Adjust the versions if you encounter compatibility issues.
-
-By following these instructions, you should be able to set up and run your car price prediction app smoothly on any machine with the required dependencies.
